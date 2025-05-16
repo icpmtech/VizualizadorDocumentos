@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` completo e profissional que podes colocar na raiz do teu projeto ASP.NET MVC com **upload e pré-visualização de ficheiros**:
-
----
-
 ### 📄 `README.md`
 
 ```markdown
