@@ -75,9 +75,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Desenvolvido por \[teu-nome] 🧠
 
-```
 
----
-
-Se quiseres, posso gerar automaticamente este `README.md` pronto para colares ou até criar um `.zip` com tudo. Queres isso também?
-```
