@@ -1,6 +1,4 @@
-### 📄 `README.md`
 
-```markdown
 # 📁 ASP.NET MVC - Upload e Pré-visualização de Ficheiros
 
 Este projeto permite fazer upload e visualizar ficheiros diretamente no browser. Os ficheiros suportados incluem imagens (JPG, PNG, TIFF), documentos PDF e outros tipos comuns.
@@ -18,12 +16,10 @@ Este projeto permite fazer upload e visualizar ficheiros diretamente no browser.
 ## 📂 Estrutura
 
 ```
-
 /Controllers/UploadController.cs
 /Views/Upload/Index.cshtml
 /wwwroot/uploads/           <-- Ficheiros guardados aqui
-
-````
+```
 
 ## ▶️ Como executar
 
@@ -31,40 +27,37 @@ Este projeto permite fazer upload e visualizar ficheiros diretamente no browser.
    ```bash
    git clone https://github.com/teu-username/nome-do-projeto.git
    cd nome-do-projeto
-````
+   ```
 
 2. Garante que tens o .NET SDK instalado:
-
    ```bash
    dotnet --version
    ```
 
 3. Roda a aplicação:
-
    ```bash
    dotnet run
    ```
 
 4. Acede no browser:
-
    ```
    http://localhost:5000/Upload
    ```
 
 ## 🛠️ Dependências
 
-* ASP.NET Core MVC
-* Bootstrap 5 (CDN)
+- ASP.NET Core MVC
+- Bootstrap 5 (CDN)
 
 ## 💡 Notas
 
-* Os ficheiros são armazenados no servidor em `wwwroot/uploads/`.
-* Podes alterar os tipos permitidos e validações no método `Upload`.
+- Os ficheiros são armazenados no servidor em `wwwroot/uploads/`.
+- Podes alterar os tipos permitidos e validações no método `Upload`.
 
 ## 📸 Capturas
 
-| Upload                                                          | Pré-visualização                                                 |
-| --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Upload | Pré-visualização |
+|--------|------------------|
 | ![Upload](https://via.placeholder.com/300x150?text=Upload+Form) | ![Modal](https://via.placeholder.com/300x150?text=Modal+Preview) |
 
 ## 📄 Licença
@@ -73,6 +66,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido por \[teu-nome] 🧠
-
-
+Desenvolvido por [teu-nome] 🧠
